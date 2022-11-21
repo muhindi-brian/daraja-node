@@ -1,0 +1,26 @@
+{
+  "name": "daraja-node",
+  "version": "1.0.0",
+  "description": "A simple node project to consume daraja API",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "m-pesa",
+    "safarisom",
+    "daraja",
+    "api",
+    "mpesa",
+    "api"
+  ],
+  "author": "BrianeCode:8080",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.2",
+    "nodemon": "^2.0.20",
+    "request": "^2.88.2"
+  }
+}
